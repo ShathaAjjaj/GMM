@@ -18,7 +18,7 @@ This enables better understanding of customer behaviors, ride types, and potenti
 
 ## 📂 Dataset
 
-- **Source**: [NYC Yellow Taxi Trip Dataset on Kaggle](https://www.kaggle.com/datasets/yasserh/uber-taxi-gps-data)
+- **Source**: [NYC Yellow Taxi Trip Dataset on Kaggle](https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2016-02.csv)
 - **Size**: 100,000+ taxi ride records
 - **Key Columns Used**:
   - `passenger_count`
