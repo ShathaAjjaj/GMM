@@ -47,7 +47,8 @@ This enables better understanding of customer behaviors, ride types, and potenti
 - GMM allows **soft clustering** (each trip has probabilities for each cluster).
 - More flexible than KMeans for real-world, overlapping data.
 - We selected the number of clusters (k=3) using silhouette scores.
-- 
+
+  
 Imagine you have a dataset of points, and you believe that these points are generated from several different groups (clusters). But instead of hard boundaries like K-Means (where each point belongs to only one cluster), you want soft boundaries, where each point can belong to multiple groups with different probabilities.
 ---
 
